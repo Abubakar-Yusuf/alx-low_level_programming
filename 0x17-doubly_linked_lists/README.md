@@ -20,7 +20,6 @@ Start to look for the right source of information without too much help
  * 
 
 typedef struct dlistint_s
-
 {
   
   int n;
